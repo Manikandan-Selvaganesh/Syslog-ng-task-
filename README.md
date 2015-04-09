@@ -24,7 +24,7 @@ Shapes are constructed.
 Doing
 Fixing the parsing error in cpp.
 Adding few functional requirements.
-Cleaning the code
+Cleaning the code.
 
 -Done as a part of GSoC-2015 project.
 
