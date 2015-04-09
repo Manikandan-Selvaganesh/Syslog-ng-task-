@@ -1,2 +1,2 @@
-# Syslog-ng-task-
+# Syslog-ng-tasks
 Syslog-ng GSoC tasks
