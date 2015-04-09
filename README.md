@@ -11,13 +11,12 @@ Task()
 
     Parse the yaml file.
 
-   Set up a GUI(Display the shapes described in the yaml file)
+    Set up a GUI(Display the shapes described in the yaml file)
   
 
 Tasks done
 
-
-    Python
+Python
 
 
       Created a yaml file with geometric shape properties.
@@ -29,7 +28,7 @@ Tasks done
       Attached the images of draw_shapes and layout design.
 
 
-  Cpp
+Cpp
 
 
       Created a layout design for configuration editor.
