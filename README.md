@@ -3,41 +3,50 @@ Syslog-ng GSoC tasks
 
 Project: Syslog-ng configuration editor using qt
 
+
 Task()
 
-Create a yaml file which contain geometric shapes which has some properties.
 
-Parse the yaml file.
+    Create a yaml file which contain geometric shapes which has some properties.
 
-Set up a GUI(Display the shapes described in the yaml file)
+    Parse the yaml file.
+
+   Set up a GUI(Display the shapes described in the yaml file)
+  
 
 Tasks done
 
-Python
 
-Created a yaml file with geometric shape properties.
+    Python
 
-Python file to parse the yaml file and display the shapes in GUI.
 
-Created a configuration layout design in Python.
+      Created a yaml file with geometric shape properties.
 
-Attached the images of draw_shapes and layout design.
+      Python file to parse the yaml file and display the shapes in GUI.
 
-Cpp
+      Created a configuration layout design in Python.
 
-Created a layout design for configuration editor.
+      Attached the images of draw_shapes and layout design.
 
-Created a yaml file.
 
-Shapes are constructed.
+  Cpp
 
-Doing
 
-Fixing the parsing error in cpp.
+      Created a layout design for configuration editor.
 
-Adding few functional requirements.
+      Created a yaml file.
 
-Cleaning the code.
+      Shapes are constructed.
+
+
+  Doing
+
+
+    Fixing the parsing error in cpp.
+
+    Adding few functional requirements.
+
+    Cleaning the code.
 
 
 -Done as a part of GSoC-2015 project.
