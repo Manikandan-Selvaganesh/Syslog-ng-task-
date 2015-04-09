@@ -1,0 +1,9 @@
+#YAML
+circle:
+  radius: 0.02
+  color: green
+rectangle:
+  h: 60
+  w: 90
+
+
