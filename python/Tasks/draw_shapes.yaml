@@ -1,0 +1,33 @@
+#YAML file
+
+#Copyright (C) 2015 by Manikandan Selvaganesh <11bc049@skcet.ac.in>
+#This file is part of syslog-ng task() for GSoC 2015.
+
+#This program is free software: you can redistribute it and/or modify
+#it under the terms of the GNU General Public License as published by
+#the Free Software Foundation, either version 3 of the License, or
+#(at your option) any later version.
+#This program is distributed in the hope that it will be useful,
+#but WITHOUT ANY WARRANTY; without even the implied warranty of
+#MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+#See the COPYING file for more details.
+
+circle:
+  x-value: 250
+  y-value: 15
+  width: 90
+  height: 60
+  color:
+    red: 0
+    green: 0
+    blue: 90
+    a: 200
+rectangle:
+  x-value: 70
+  y-value: 15
+  width: 90
+  height: 60
+  color:
+    red: 200
+    green: 0
+    blue: 0
