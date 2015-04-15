@@ -50,8 +50,8 @@ class Task(QtGui.QWidget):
         qp.end()
 
 #Parsing the yaml file
-#Method to draw rectangle
-    
+#Method to draw the rectangle
+
     def drawRectangles(self, qp, tData):
 
         color = QtGui.QColor(0, 0, 0)
@@ -61,7 +61,7 @@ class Task(QtGui.QWidget):
         qp.setBrush(QtGui.QColor(tColor['red'], tColor['green'], tColor['blue']))
         qp.drawRect(tData['x-value'], tData['y-value'], tData['width'], tData['height'])
 
-#Method to draw Ellipse
+#Method to draw the Ellipse
 
     def drawEllipse(self, qp, cData):
         cColor = cData['color']
